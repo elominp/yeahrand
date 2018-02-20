@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">YeahRand!</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="button_yeahrand">Envoyer un message aléatoire à des contacts</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-8052216586469752/4378821623</string>
+
+    <string name="search_hint">Chercher un contact</string>
+    <string name="app_label">YeahRand!</string>
+</resources>
